@@ -1,0 +1,99 @@
+Name;Identifier;ID Type
+At a Glance Dev; https://app.dev.conceptsnbeyond.com/index.html?clientKey=03dd6b9c-96aa-3c20-badb-7bef7311a9b6; site
+Dark Theme Parent; #app > div > div.main-container.darkTheme; cssSelector
+Menu Button; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[1]/div[1]/button; xpath
+Layout Menu Item; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[2]/a; xpath
+Dark Mode Toggle; //body//div[@id='app']//span//span[1]; xpath
+Error Popup; body > div.atlaskit-portal-container > div > div > div:nth-child(3) > div.css-h2743 > section; cssSelector
+Work Completion To Do; .workCompletionChartView > div > svg > g.highcharts-data-labels.highcharts-series-0.highcharts-pie-series.highcharts-tracker > g.highcharts-label.highcharts-data-label.highcharts-data-label-color-0 > text > tspan:nth-child(2); cssSelector
+Alert Message; /html/body/div[2]/div/div/div[3]/div[2]/section/div/div[2]/p; xpath
+Edit Layout; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[2]/ul/li[2]/a; xpath
+Save Button; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[3]/ul/li[2]/div/button; xpath
+Cancel Button; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[3]/ul/li[1]/div/button/span; xpath
+Add screen; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[2]/ul/li[3]/a; xpath
+New screen; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[2]/div/div/span/b; xpath
+Remove screen; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[2]/ul/li[4]; xpath
+Total screen - 1; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[2]/div/div/span/b; xpath
+% Work Completion; //*[@id="app"]/div/div[2]/div[2]/div[3]/div/div/div/div/div/div[1]/div/section/div/div/div[1]; xpath
+add; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[1]/div/div[1]/div[1]/button[1]/span; xpath
+Help; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[5]/a/i/span; xpath
+At a Glance Page; https://ataglance.atlassian.net/wiki/spaces/AG/pages/2608758823/At+a+Glance+2.0; site
+Current Sprint; //*[@id="app"]/div/div[2]/div[2]/div[3]/div/div/div/div/div/div[1]/div/section/div/div/div[2]; xpath
+Story Status; //*[@id="app"]/div/div[2]/div[2]/div[3]/div/div/div/div/div/div[1]/div/section/div/div/div[5]/div/section/div/div[1]; xpath
+JiraProject; div.project-select__value-container; cssSelector
+CNB; div.project-select__menu-list>div.project-select__option:nth-child(1); cssSelector
+CNB Data Hub; CNB Data Hub; linkText
+J-DropDownListOptions; div.project-select__menu>div; cssSelector
+ProjectText; div.projectText.disabled; cssSelector
+Update/Submit;  button.css-ryxqcb; cssSelector
+Update/Submit-1; button.css-ryxqcb:nth-child(2); cssSelector
+Cancel;  footer.css-1uaukbv>div>button>span; cssSelector
+Settings; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[4]/a/i/span; xpath
+Connection; /html/body/div[2]/div/div/div[3]/div[2]/section/div/div[1]; xpath
+JIRA; //*[@id="react-tabs-182"]/div; xpath
+Change project; Change Project; linkText
+BITBUCKET; div.img-bitbucket; cssSelector
+DropDownList; div.Select--multi; cssSelector
+DropDownListClear; span[class="Select-clear"]; cssSelector
+DropDownListOptions; div.Select-menu-outer> div.Select-menu; cssSelector
+B-nimblebydesign/refapp; div.Select-menu-outer> div.Select-menu > div.Select-option:nth-child(4); cssSelector
+nimblebydesign/refapp; nimblebydesign/refapp; linktext
+Save Association; button.btn.btn-primary.main:nth-child(1); cssSelector
+BitBucket_Repositories; div.Select-control; cssSelector
+nimblebydesign/data-plugin; nimblebydesign/data-plugin; linkText
+GitHub; div.img-github; cssSelector
+conceptsandbeyond/AtAGlance; div.Select-menu-outer>div.Select-menu>div.Select-option[text()='conceptsandbeyond/AtAGlance']; cssSelector
+conceptsandbeyond/juice-shop; div.Select-menu-outer>div.Select-menu>div.Select-option[text()='conceptsandbeyond/juice-shop']; cssSelector
+Widget Menu Item; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/a; xpath
+All; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/a/span; xpath
+All_Cancel; div.dashboard-modal-footer.dashboard-modal-add-gadget-footer > div.configLinks; cssSelector
+All_list; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul; xpath
+All_Code_Documentation_Widget; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[3]/div/div[2]; xpath
+All_Code_Documentation_Widget_Add; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[3]/div/div[1]/div[1]/button[1]/span; xpath
+All_Code_Documentation_Widget_Connect; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[3]/div/div[1]/div[1]/button[2]/span; xpath
+All_Defect_Status; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[15]/div; xpath
+All_Defect_Status_Add; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[15]/div/div[1]/div[1]/button[1]; xpath
+All_Work_load_Distribution; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[32]/div; xpath
+All_Work_load_Distribution_Add; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[32]/div/div[1]/div[1]/button[1]; xpath
+All_Work_load_Distribution_Connect; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[32]/div/div[1]/div[1]/button[2]/span; xpath
+All_Work_completion; li.list-group-item.pl-2.active:nth-child(1) ul.list-group.flex-column.d-inline-block.sub-submenu2 li.list-group-item.pl-2:nth-child(2) div.template-button-container.gadget-template-button.hasOverlay > div.template-clickable-container; cssSelector
+All_Work_completion_Add; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[1]/div/div[1]/div[1]/button[1]; xpath
+All_Work_completion_Connect; //*[@id="app"]/div/div[2]/div[1]/div/div/ul/li[3]/ul/li[1]/ul/li[1]/div/div[1]/div[1]/button[2]/span; xpath
+Next Screen; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[2]/div/button[2]/i; xpath
+Previous Screen; //*[@id="app"]/div/div[2]/div[2]/div[1]/div[2]/div/button[1]/i; xpath
+Present screen; div.total-slides>span; cssSelector
+Selector-container; div.react-select__value-container; cssSelector
+Menu list; div.react-select__menu-list; cssSelector
+At a Glance 2.0 Testing Dashboard; //*[@id="react-select-2-option-0-0"]; xpath
+Dashboard-title; div.titleValue; cssSelector
+Test; //*[@id="react-select-2-option-0-1"]; xpath
+Create Dashboard;//*[@id="react-select-2-option-1-0"]; xpath
+Name field; div.dashboard-body-container>div>div>input; cssSelector
+Description field; div.dashboard-body-container>div.css-164r41r:nth-child(5)>div>input; cssSelector
+Manage Dashboard; //*[@id="react-select-2-option-1-1"]; xpath
+Edit Dashboard; div.css-13eissz; cssSelector
+Show data; div.data-select__value-container; cssSelector
+Show data list; div.data-select__menu>div.data-select__menu-list>div.data-select__option; cssSelector
+Last 15; div.data-select__menu>div>div.data-select__option:nth-child(1); cssSelector
+Current Month; div.data-select__menu>div>div.data-select__option:nth-child(2); cssSelector
+Last 30 ; div.data-select__menu>div>div.data-select__option:nth-child(3); cssSelector
+Custom Date; div.data-select__menu>div>div.data-select__option:nth-child(7); cssSelector
+From Date; div.col-12:nth-child(4) div.col-6.pad-r-10:nth-child(1) div.css-164r41r div.css-5a7vsu-container:nth-child(2) div:nth-child(4) div.css-1335yft div:nth-child(1) > div.css-1hws238; cssSelector
+To Date; div.col-12:nth-child(4) div.col-6:nth-child(2) div.css-164r41r div.css-5a7vsu-container:nth-child(2) div:nth-child(4) div.css-1335yft div:nth-child(1) > div.css-1hws238; cssSelector
+definition of done and ready; div.project-select__menu-list>div.project-select__option:nth-child(2); cssSelector
+Time frame;div.dashboard-timeframe>span.titleValue; cssSelector
+G_DropDownList; div.save-github-instance > div.form-group >div.row>div>div.Select--multi; cssSelector
+G_DropDownListClear; div.save-github-instance > div.form-group >div.row>div>div.Select--multi>div.Select-control>span.Select-clear-zone; cssSelector
+G_DropDownListOptions; div.Select-menu-outer>div.Select-menu>div.Select-option; cssSelector
+G_Save Association; div.save-github-instance>div.form-group>div.row>div.col-xs-12>button.btn; cssSelector
+G_Repositories; div.save-github-instance>div.form-group>div.row>div.col-xs-12>div.Select>div.Select-control>span.Select-multi-value-wrapper>div.Select-value>a.Select-value-label>span.Select-aria-only; cssSelector
+Commit1; div.commitRequestWrap>div.sectionViewProductBodyWrap>div.commitRequestChartView>div.highcharts-container>svg.highcharts-root>g.highcharts-data-labels>g.highcharts-label>text>tspan; cssSelector
+Commit2;div.commitRequestWrap>div.sectionViewProductBodyWrap>div.commitRequestChartView>div.highcharts-container>svg.highcharts-root>g.highcharts-data-labels>g.highcharts-label:nth-child(2)>text>tspan ; cssSelector
+CommitName1; div.commitRequestWrap>div.sectionViewProductBodyWrap>div.commitRequestChartView>div.highcharts-container>svg.highcharts-root>g.highcharts-axis-labels>text; cssSelector
+CommitName2; div.commitRequestWrap>div.sectionViewProductBodyWrap>div.commitRequestChartView>div.highcharts-container>svg.highcharts-root>g.highcharts-axis-labels>text:nth-child(2); cssSelector
+Dashboard Screen; div.sectionTitle; cssSelector
+Defect_Status_dropdown_Menu; //div[contains(@class,"sectionViewProductWrap")]/div[contains(@class,"sectionTitleWrap")]/div[text()="Defect Status"] /parent::div/parent::div/parent::section/div/div/div/div; xpath
+Defect_Status_Delete; //div[contains(@class,"sectionViewProductWrap")]/div[contains(@class,"sectionTitleWrap")]/div[text()="Defect Status"] /parent::div /parent::div/parent::section/div/div/div/div/ul/li[position()=2]/a; xpath
+popup_close; //*[@id="app"]/div/div[2]/div[2]/div[5]/div/div/div[1]/div[2]/a/span; xpath
+Work_completion_dropdown_Menu; //div[contains(@class,"sectionViewProductWrap")]/div[contains(@class,"sectionTitleWrap")]/div[text()="% Work Completion"] /parent::div/parent::div/parent::section/div/div/div/div; xpath
+Work_completion_Delete; //div[contains(@class,"sectionViewProductWrap")]/div[contains(@class,"sectionTitleWrap")]/div[text()="% Work Completion"] /parent::div /parent::div/parent::section/div/div/div/div/ul/li[position()=2]/a; xpath
